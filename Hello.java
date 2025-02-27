@@ -1,9 +1,9 @@
 public class Hello {
     public static void main(String[] args) {
-        ingles();
+        espanhol();
         
     }
-    public static void ingles() {
-        System.out.println("Hello, World!");
+   public static void espanhol() {
+        System.out.println("hola que tal");
     }
 }
